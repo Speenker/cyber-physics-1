@@ -162,7 +162,7 @@
 
 Рекомендуемый способ запуска: Google Colab.
 
-- Файл для запуска: `lab_6_final.ipynb`.
+- Файл для запуска: `lab_1.ipynb`.
 - Путь к датасету в коде: `/content/drive/MyDrive/DATASETS/Building_Dataset`.
 
 ## Ссылка на датасет
