@@ -1,5 +1,16 @@
 # Лабораторная работа 1 CV
 
+## Запуск
+
+Рекомендуемый способ запуска: Google Colab.
+
+- Файл для запуска: `lab_1.ipynb`.
+- Путь к датасету в коде: `/content/drive/MyDrive/DATASETS/Building_Dataset`.
+
+## Ссылка на датасет
+
+https://www.kaggle.com/datasets/programmer3/concrete-structural-defect-imaging-dataset
+
 ## 1. Выбор начальных условий
 
 ### 1a. Выбор набора данных и обоснование
@@ -157,14 +168,3 @@
 Лучший результат для моделей собственной реализации даёт ансамбль по логитам с TTA: вес TinyViT 0.4, Accuracy 0.7399, F1 macro 0.7306.
 
 По сравнению с лучшим вариантом из пункта 3c качество ниже. При этом относительно одиночных моделей собственной реализации ансамбль улучшает итоговые метрики.
-
-## Запуск
-
-Рекомендуемый способ запуска: Google Colab.
-
-- Файл для запуска: `lab_1.ipynb`.
-- Путь к датасету в коде: `/content/drive/MyDrive/DATASETS/Building_Dataset`.
-
-## Ссылка на датасет
-
-https://www.kaggle.com/datasets/programmer3/concrete-structural-defect-imaging-dataset
